@@ -1,0 +1,7 @@
+name = "mod-support"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+
+[[r2_buckets]]
+binding = "MODS_BUCKET"
+bucket_name = "my-game-mods"
